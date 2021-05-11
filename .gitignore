@@ -4,6 +4,7 @@
 *.json
 data.json
 data2.json
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
